@@ -1,16 +1,16 @@
 h1 {
-  color: green;
+  color: red
   text-align: center;
 }
 
 h2 {
-  color: greenyellow;
+  color: lightcoral;
   text-align: center;
   font-size: 30px;
 }
 
 p {
-  Color: red;
+  Color: green;
 }
 
 body {
@@ -18,5 +18,5 @@ body {
 }
 
 ul {
-  color: green;
+  color: red;
 }
