@@ -1,31 +1,29 @@
-# _private-island-resort_
+By Cameron Johnson
 
-#### By _**Cameron Johnson and Cameron Ray**_
+Co-Authored by Cameron Ray
 
-#### _A website about staying at a private island resort_
+First website project displaying  HTML & CSS styling
 
-## Technologies Used
+Technologies Used
+* HMTL
+* CSS
+* Markdown
 
-* html
-* css
+Description
+This website displays information about some of my favorite things and places. It was constructed with the guidance of Epicodus and was co-authored by a classmate Cameron Ray. The website does not currently incorporate javascript or associated libraries.
 
+Setup/Installation Requirements
+* Clone or download the repository
+* Open HTML file my-first-webpage.html
+* to alter the code, open the documents in an IDE or text document
+* Any changes should incorporate properly formatted commits with regular history
+* for effective commit messages Checkout This article by CBEAMS
+* if installing on a server, my-first-webpage and related links must be updated to index.html
 
-## Description
+Known Bugs
+* Project is not hostable to server
+* unordered list bullet points no justified to text
 
-You are able to look at the accommodations the island provides, activities, plan travel arrangements, look at pictures of the resort, and information on how to contact the resort.
-## Setup/Installation Requirements
-
-*clone from git hub to desktop
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
-## Known Bugs
-
-* _Any known issues_
-* _should go here_
-
-## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+License
+This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks!
+Copyright (c) January 11, 2022 Cameron Johnson
